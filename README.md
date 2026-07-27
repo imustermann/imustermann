@@ -1,5 +1,139 @@
 ## Hi there 👋
 
+# EchterAlsFake / Johannes
+
+**`Digital Craftsman | Content Creator | Developer | Student | Life Enjoyer | Caffeine Junky `**
+
+👋 Hey there! I'm Johannes, an 18-year-old student living in Germany. My coding journey began at 12, and ever since, I've been constantly (more or less) pushing commits and working on various projects, although not on this account. 
+My passion lies in developing graphical user interfaces with Python and web-scraping APIs, with all my projects being open-source under the (L)GPL License. 🌐 Although I'm not frequently active on my YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), 
+
+Apart from coding, I occasionally delve into Cybersecurity, expanding my knowledge and skills. 🛡️
+
+### Security / Signing / Verification
+> [!IMPORTANT]
+> In times when cyber-security attacks and social engineering are becoming more and more a threat, I decided
+> to prevent that by code-signing all commits and releases.
+
+If you see a commit that is unverified and newer than January 1st 2025, please immediately reach out to me.
+All release assets (the torrent version) will have everything signed with a .sig file, so that you always check 
+that nothing has been altered. This ensures the security for all of us. Please use AI if you have any questions
+on how to use it.
+
+You can find the public keys here in this repository.
+
+- Key V1: `1E04D0A679846BC0`
+- Key V2: `C7A4E066B3022FBA`
+- Key V3: `6AC58B8CA26D1C5F` (Current)
+
+
+### Security Flaws in my repos
+If you find a security vulnerability in one of my projects, please immediately report it using my official E-Mail.
+(See below). I take such things very serious.
+
+
+### **What I Believe:**
+- Collaboration is key to success, and I'm always open to it. Let's create something amazing together! 🤝
+- Positivity over saltiness any day! If you've got an issue, just open it up. We're all here to learn and grow. 😄
+- Stand with Ukraine! 🇺🇦
+- FUCK AFD (AFD is a political party in Germany that basically consists of Nazis)
+- EU > USA (Donald Trump and Elon Musk are the biggest Memes in history lmao)
+- Free Jack Ma
+- The chinese government is trash
+
+### 📬 Reach Out to Me:
+- **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
+- **E-Mail:** EchterAlsFake@proton.me
+- **E-Mail:** EchterAlsFakeBS@proton.me (Business related)
+
+> [!NOTE]
+> You can hire me as a developer for all kind of projects for a fixed 10€/hour. I can do anything
+> that doesn't involve math XD.
+
+# Donations / Support
+Although I do all my work entirely for free, in order to have some more motivation and
+to support my daily caffeine consumption, you can donate me money through
+
+Jokes aside, all money will be reinvested in long-term things that I really need.
+So not any consumables like cigarettes or any other shit. Your donation gives me a serious value!
+
+
+- PayPal: `https://paypal.me/EchterAlsFake`
+- Monero (XMR): `42XwGZYbSxpMvhn9eeP4DwMwZV91tQgAm3UQr6Zwb2wzBf5HcuZCHrsVxa4aV2jhP4gLHsWWELxSoNjfnkt4rMfDDwXy9jR`
+- Ko-Fi: `https://ko-fi.com/EchterAlsFake`
+
+**I appreciate every donation!, also if it's one cent**
+
+
+
+
+## 🎵 About my music taste
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=EchterAlsFake&count=10&loved=true&maxage=60)
+
+I am a big fan of music. The music video of `Alone` from `Alan Walker` inspired me to start hacking
+and programming when I was in primary school. I listen to almost all genres and all languages. 
+I have a big lossless / hi-res music collection that I am listening to every day. You can find my stats
+on my [Last FM Profile](https://www.last.fm/user/EchterAlsFake). I am listening with the Sennheiser HD560S headphones.
+
+Btw feel free to send me your favourite songs to my E-Mail or Discord. I always like to try out
+new music, so if you like a song, there's a high chance that I'll like it too :)
+
+### Favourite Artists (sorted)
+- [DOROFEEVA](https://www.last.fm/music/DOROFEEVA)
+- [Мы](https://www.last.fm/music/%D0%9C%D1%8B)
+- [Serebro](https://www.last.fm/music/SEREBRO)
+- [Vremya i Steklo](https://www.last.fm/music/Vremya+i+Steklo)
+- [Kalafina](https://www.last.fm/music/Kalafina)
+- [Alan Walker](https://www.last.fm/music/Alan+Walker)
+- [LiSA (Risa Oribe)](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv?si=8412153299d7406e)
+
+###  Favorite Songs
+- [Vremya i Steklo - На Стиле](https://www.youtube.com/watch?v=tJ7JcweIOZ4)
+- [Jaiden Stylez - Alive](https://www.youtube.com/watch?v=xzjSMKNeX7Y&pp=ygUTamFpZGVuIHN0eWxlZCBhbGl2ZQ%3D%3D)
+- [LiSA - Empty MERMAiD](https://www.youtube.com/watch?v=mvHSGl2kJ6s&pp=ygUSbGlTQSBlbXB0eSBtZXJtYWlk)
+- [Juice WRLD - Righteous](https://www.youtube.com/watch?v=ZengOKCUBHo&pp=ygUJcmlnaHRlb3Vz)
+- [Kalafina - Love come down](https://www.youtube.com/watch?v=WUy4wf52vmw)
+- [Мы - TikTok](https://www.youtube.com/watch?v=wFbZ0jtFUUA)
+
+# Languages and Tools
+- Python
+- HTML, CSS
+- Arch Linux
+- Hyprland
+- Monster Energy
+- Effect Energy
+- Git
+- Pycharm Professional
+- Android
+
+# Other things about me
+- I drink way too much caffeine (seriously)
+- I am the guy who wears a T-Shirt when it's 2° winter
+- I am an internet pirate (If paying isn't owning, piracy isn't stealing)
+- I am always happy
+- I hate Apple (Android / Linux just better, change my mind)
+- I do video editing sometimes (Davinci Resolve)
+
+# Why I am sometimes inactive
+As you can see from the commits, there are weeks when I literally code 8 hours straight, but then there are weeks or 
+even months of inactivity. I still go to school. It's not as if I would learn for anything, but to get good grades without
+learning I need to be very active in the lessons, and when I arrive home, I just don't have the energy left for coding.
+
+Please remember that I do that Open-Source and in my free time. While I do my best to keep all projects functional, I cannot
+guarantee for it. If I have one of those "very active" phases, I will set a 🔥 emoji on GitHub to indicate that.
+
+# My Setup
+CPU: `AMD Ryzen 7 4750G` (Please don't buy this trash CPU, seriously)
+<br>GPU: `Nvidia RTX 2070 Super OC`
+<br>RAM: `G-Skill AEGIS 32GB 3200 Mhz`
+<br>Keyboard: `ASUS Falchion RX Low Profile (red switches)`
+<br>Mouse: `Logitech G502 Lightspeed`
+<br>Monitors `Gigabyte M27Q (170Hz)`; `Some Asus monitor idk (60Hz)`
+
+I also have a Laptop which is the `MSI Stealth 15M A11UEK`
+
+### This README was inspired by [ForrestKnight](https://github.com/ForrestKnight)
+
+
 <!--
 **imustermann/imustermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
